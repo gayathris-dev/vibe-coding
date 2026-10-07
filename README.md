@@ -1,4 +1,3 @@
-# BNP Paribas — Dynamic Recovery System
 
 > **Enterprise AI-Assisted Incident Remediation & Knowledge Controller**  
 > Built with **React (Vite + Tailwind CSS)**, **FastAPI (Python)**, **PostgreSQL / SQLite**, and **Sentence-Transformers AI**.
